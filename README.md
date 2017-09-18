@@ -8,6 +8,7 @@ To setup the game download and include the following in your docuement head:
 ```
 
 The game can be played live at: [http://jjdriscoll/matchgame/](http://jjdriscoll/matchgame/)
+
 ![Match game poster](http://www.jjdriscoll.com/wp-content/uploads/2017/07/matchgame.jpeg)
 
 Also featured:
